@@ -25,10 +25,10 @@ public class Main {
         nums.pop();
         nums.pop();
 
-        nums.show();
+        nums.display();
 
         System.out.println("Popped: " + nums.pop());
         System.out.println("Top element: " + nums.peek());
-        nums.show();
+        nums.display();
     }
 }

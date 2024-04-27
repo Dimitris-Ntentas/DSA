@@ -60,7 +60,7 @@ public class LinkedList {
         }
     }
 
-    public void show() {
+    public void display() {
 
         Node node = head;
 

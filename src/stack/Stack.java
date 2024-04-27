@@ -65,7 +65,7 @@ public class Stack {
         return data;
     }
 
-    public void show() {
+    public void display() {
 
         System.out.println("Stack:");
         System.out.println("---");
